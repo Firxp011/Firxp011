@@ -1,4 +1,4 @@
-![Lycra-GX's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Lycra-GX &show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Firxp011's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Lycra-GX &show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ![](https://cdn.jsdelivr.net/gh/Lycra-GX/Lycra-GX/profile-summary-card-output/algolia/0-profile-details.svg)
 
